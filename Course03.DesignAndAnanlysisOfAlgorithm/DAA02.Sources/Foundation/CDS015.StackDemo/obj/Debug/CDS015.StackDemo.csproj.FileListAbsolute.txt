@@ -1,0 +1,5 @@
+D:\20180310021chen\Course03.DesignAndAnanlysisOfAlgorithm\DAA02.Sources\Foundation\CDS015.StackDemo\bin\Debug\CDS015.StackDemo.exe.config
+D:\20180310021chen\Course03.DesignAndAnanlysisOfAlgorithm\DAA02.Sources\Foundation\CDS015.StackDemo\bin\Debug\CDS015.StackDemo.exe
+D:\20180310021chen\Course03.DesignAndAnanlysisOfAlgorithm\DAA02.Sources\Foundation\CDS015.StackDemo\bin\Debug\CDS015.StackDemo.pdb
+D:\20180310021chen\Course03.DesignAndAnanlysisOfAlgorithm\DAA02.Sources\Foundation\CDS015.StackDemo\obj\Debug\CDS015.StackDemo.exe
+D:\20180310021chen\Course03.DesignAndAnanlysisOfAlgorithm\DAA02.Sources\Foundation\CDS015.StackDemo\obj\Debug\CDS015.StackDemo.pdb

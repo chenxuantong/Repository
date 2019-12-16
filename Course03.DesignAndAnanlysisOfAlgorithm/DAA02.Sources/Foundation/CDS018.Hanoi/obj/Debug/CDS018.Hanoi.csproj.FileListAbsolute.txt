@@ -1,0 +1,6 @@
+D:\20180310021chen\Course03.DesignAndAnanlysisOfAlgorithm\DAA02.Sources\Foundation\CDS018.Hanoi\bin\Debug\CDS018.Hanoi.exe.config
+D:\20180310021chen\Course03.DesignAndAnanlysisOfAlgorithm\DAA02.Sources\Foundation\CDS018.Hanoi\bin\Debug\CDS018.Hanoi.exe
+D:\20180310021chen\Course03.DesignAndAnanlysisOfAlgorithm\DAA02.Sources\Foundation\CDS018.Hanoi\bin\Debug\CDS018.Hanoi.pdb
+D:\20180310021chen\Course03.DesignAndAnanlysisOfAlgorithm\DAA02.Sources\Foundation\CDS018.Hanoi\obj\Debug\CDS018.Hanoi.csprojResolveAssemblyReference.cache
+D:\20180310021chen\Course03.DesignAndAnanlysisOfAlgorithm\DAA02.Sources\Foundation\CDS018.Hanoi\obj\Debug\CDS018.Hanoi.exe
+D:\20180310021chen\Course03.DesignAndAnanlysisOfAlgorithm\DAA02.Sources\Foundation\CDS018.Hanoi\obj\Debug\CDS018.Hanoi.pdb

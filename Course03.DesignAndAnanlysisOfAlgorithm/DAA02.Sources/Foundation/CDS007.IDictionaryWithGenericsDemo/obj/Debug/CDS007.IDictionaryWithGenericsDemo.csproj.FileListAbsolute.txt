@@ -1,0 +1,5 @@
+D:\20180310021chen\Course03.DesignAndAnanlysisOfAlgorithm\DAA02.Sources\Foundation\CDS007.IDictionaryWithGenericsDemo\bin\Debug\CDS007.IDictionaryWithGenericsDemo.exe.config
+D:\20180310021chen\Course03.DesignAndAnanlysisOfAlgorithm\DAA02.Sources\Foundation\CDS007.IDictionaryWithGenericsDemo\bin\Debug\CDS007.IDictionaryWithGenericsDemo.exe
+D:\20180310021chen\Course03.DesignAndAnanlysisOfAlgorithm\DAA02.Sources\Foundation\CDS007.IDictionaryWithGenericsDemo\bin\Debug\CDS007.IDictionaryWithGenericsDemo.pdb
+D:\20180310021chen\Course03.DesignAndAnanlysisOfAlgorithm\DAA02.Sources\Foundation\CDS007.IDictionaryWithGenericsDemo\obj\Debug\CDS007.IDictionaryWithGenericsDemo.exe
+D:\20180310021chen\Course03.DesignAndAnanlysisOfAlgorithm\DAA02.Sources\Foundation\CDS007.IDictionaryWithGenericsDemo\obj\Debug\CDS007.IDictionaryWithGenericsDemo.pdb

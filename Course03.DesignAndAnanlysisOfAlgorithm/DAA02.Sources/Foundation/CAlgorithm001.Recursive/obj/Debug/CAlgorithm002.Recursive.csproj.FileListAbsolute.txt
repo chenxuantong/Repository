@@ -1,0 +1,5 @@
+D:\20180310021chen\Course03.DesignAndAnanlysisOfAlgorithm\DAA02.Sources\Foundation\CAlgorithm001.Recursive\bin\Debug\CAlgorithm001.Recursive.exe.config
+D:\20180310021chen\Course03.DesignAndAnanlysisOfAlgorithm\DAA02.Sources\Foundation\CAlgorithm001.Recursive\bin\Debug\CAlgorithm001.Recursive.exe
+D:\20180310021chen\Course03.DesignAndAnanlysisOfAlgorithm\DAA02.Sources\Foundation\CAlgorithm001.Recursive\bin\Debug\CAlgorithm001.Recursive.pdb
+D:\20180310021chen\Course03.DesignAndAnanlysisOfAlgorithm\DAA02.Sources\Foundation\CAlgorithm001.Recursive\obj\Debug\CAlgorithm001.Recursive.exe
+D:\20180310021chen\Course03.DesignAndAnanlysisOfAlgorithm\DAA02.Sources\Foundation\CAlgorithm001.Recursive\obj\Debug\CAlgorithm001.Recursive.pdb

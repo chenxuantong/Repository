@@ -1,0 +1,232 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.106
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CDS001.IEnumerableDemo", "CDS001.IEnumerable\CDS001.IEnumerableDemo.csproj", "{DC19F287-353C-4D80-B11D-6289207B77EA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CDS002.IEnumerableWithGenericsDemo", "CDS002.IEnumerableWithGenericsDemo\CDS002.IEnumerableWithGenericsDemo.csproj", "{4A5073BA-1F96-4149-B858-57DAF8337D77}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CDS003.ICollectionWithGenericsDemo", "CDS003.ICollectionWithGenericsDemo\CDS003.ICollectionWithGenericsDemo.csproj", "{D32CCBB3-38B1-49A3-A627-35C44C7EE277}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CDS004.IListDemo", "CDS004.IListDemo\CDS004.IListDemo.csproj", "{1C6B863F-A27D-45D8-810A-F069F6B78E4B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CDS005.IListWithGenericsDemo", "CDS004.IListWithGenericsDemo\CDS005.IListWithGenericsDemo.csproj", "{3C06DD36-8508-4E0E-B8E8-0C5E434C9AC1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CDS006.IDictionaryDemo", "CDS006.IDictionaryDemo\CDS006.IDictionaryDemo.csproj", "{1ADA3988-7EFE-4B9B-B4D2-BF2E860D0434}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CDS007.IDictionaryWithGenericsDemo", "CDS007.IDictionaryWithGenericsDemo\CDS007.IDictionaryWithGenericsDemo.csproj", "{15F330CA-C717-4F6D-A57A-95EEE1FBEFAC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CDS008.IComparerDemo", "CDS008.IComparerDemo\CDS008.IComparerDemo.csproj", "{94CF40EB-F572-4C3A-86D0-5086483056E2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CDS009.IEqualityComparerDemo", "CDS009.IEqualityComparerDemo\CDS009.IEqualityComparerDemo.csproj", "{BECCBE37-709D-4F4D-85D5-815BB3BA94A0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CDS000.Common", "CDS000.Common\CDS000.Common.csproj", "{DE0620A6-8BCC-4C11-95DC-C535A7863E08}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CDS010.IEnumeratorDemo", "CDS010.IEnumeratorDemo\CDS010.IEnumeratorDemo.csproj", "{D00AAC4D-944F-4C06-A9D1-AA565CC4BBDD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CDS011.IEnumeratorWithGenericsDemo", "CDS011.IEnumeratorWithGenericsDemo\CDS011.IEnumeratorWithGenericsDemo.csproj", "{3EC66DF7-55F8-4792-9F83-8580473D3592}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CDS012.HashTableDemo", "CDS012.HashTableDemo\CDS012.HashTableDemo.csproj", "{BEDED732-E956-4380-B1E9-810E2A42D9BB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CDS013.SequenceListDemo", "CDS013.SequenceListDemo\CDS013.SequenceListDemo.csproj", "{395315A2-C2EE-4764-9CB9-F12C238D7C84}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CDS014.LinkedListDemo", "CDS014.LinkedListDemo\CDS014.LinkedListDemo.csproj", "{E2E54316-1B81-4A24-95A4-8C578C9F1733}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CDS015.StackDemo", "CDS015.StackDemo\CDS015.StackDemo.csproj", "{D435D80D-A0DA-4C91-BD6E-5F6C0C8957EE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CDS016.QueueDemo", "CDS016.QueueDemo\CDS016.QueueDemo.csproj", "{898A811C-C785-49E5-A725-A8AF4013A0B9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CDS017.BinarySTreeDemo", "CDS017.BinarySTreeDemo\CDS017.BinarySTreeDemo.csproj", "{E31E0F3D-9C2A-4856-82D8-0E1B8ADE62D8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CAlgorithm001.Sort", "CAlgorithm001\CAlgorithm001.Sort.csproj", "{AFCF9487-0223-453A-9856-66DE2F940651}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CAlgorithm002.Recursive", "CAlgorithm001.Recursive\CAlgorithm002.Recursive.csproj", "{D954EDDA-D7CD-446D-8783-FCAFA1C4D233}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CDS018.Hanoi", "CDS018.Hanoi\CDS018.Hanoi.csproj", "{E1E22CF4-B3F0-4FDA-8749-AD88159DB0DC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CDS015.01.StackForHanoi", "CDS015.01.StackForHanoi\CDS015.01.StackForHanoi.csproj", "{A2E21FCE-3682-4510-B4CB-A620F10DB802}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CDS019.GraphDemo", "GraphDemo\CDS019.GraphDemo.csproj", "{ACB9CA1D-3812-4E29-A9C7-C2BD2D6B0D21}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DC19F287-353C-4D80-B11D-6289207B77EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC19F287-353C-4D80-B11D-6289207B77EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC19F287-353C-4D80-B11D-6289207B77EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC19F287-353C-4D80-B11D-6289207B77EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A5073BA-1F96-4149-B858-57DAF8337D77}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A5073BA-1F96-4149-B858-57DAF8337D77}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A5073BA-1F96-4149-B858-57DAF8337D77}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A5073BA-1F96-4149-B858-57DAF8337D77}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D32CCBB3-38B1-49A3-A627-35C44C7EE277}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D32CCBB3-38B1-49A3-A627-35C44C7EE277}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D32CCBB3-38B1-49A3-A627-35C44C7EE277}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D32CCBB3-38B1-49A3-A627-35C44C7EE277}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C6B863F-A27D-45D8-810A-F069F6B78E4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C6B863F-A27D-45D8-810A-F069F6B78E4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C6B863F-A27D-45D8-810A-F069F6B78E4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C6B863F-A27D-45D8-810A-F069F6B78E4B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C06DD36-8508-4E0E-B8E8-0C5E434C9AC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C06DD36-8508-4E0E-B8E8-0C5E434C9AC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C06DD36-8508-4E0E-B8E8-0C5E434C9AC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C06DD36-8508-4E0E-B8E8-0C5E434C9AC1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1ADA3988-7EFE-4B9B-B4D2-BF2E860D0434}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1ADA3988-7EFE-4B9B-B4D2-BF2E860D0434}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1ADA3988-7EFE-4B9B-B4D2-BF2E860D0434}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1ADA3988-7EFE-4B9B-B4D2-BF2E860D0434}.Release|Any CPU.Build.0 = Release|Any CPU
+		{15F330CA-C717-4F6D-A57A-95EEE1FBEFAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15F330CA-C717-4F6D-A57A-95EEE1FBEFAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15F330CA-C717-4F6D-A57A-95EEE1FBEFAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15F330CA-C717-4F6D-A57A-95EEE1FBEFAC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{94CF40EB-F572-4C3A-86D0-5086483056E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94CF40EB-F572-4C3A-86D0-5086483056E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94CF40EB-F572-4C3A-86D0-5086483056E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94CF40EB-F572-4C3A-86D0-5086483056E2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BECCBE37-709D-4F4D-85D5-815BB3BA94A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BECCBE37-709D-4F4D-85D5-815BB3BA94A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BECCBE37-709D-4F4D-85D5-815BB3BA94A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BECCBE37-709D-4F4D-85D5-815BB3BA94A0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE0620A6-8BCC-4C11-95DC-C535A7863E08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE0620A6-8BCC-4C11-95DC-C535A7863E08}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE0620A6-8BCC-4C11-95DC-C535A7863E08}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE0620A6-8BCC-4C11-95DC-C535A7863E08}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D00AAC4D-944F-4C06-A9D1-AA565CC4BBDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D00AAC4D-944F-4C06-A9D1-AA565CC4BBDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D00AAC4D-944F-4C06-A9D1-AA565CC4BBDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D00AAC4D-944F-4C06-A9D1-AA565CC4BBDD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3EC66DF7-55F8-4792-9F83-8580473D3592}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3EC66DF7-55F8-4792-9F83-8580473D3592}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3EC66DF7-55F8-4792-9F83-8580473D3592}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3EC66DF7-55F8-4792-9F83-8580473D3592}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BEDED732-E956-4380-B1E9-810E2A42D9BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BEDED732-E956-4380-B1E9-810E2A42D9BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BEDED732-E956-4380-B1E9-810E2A42D9BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BEDED732-E956-4380-B1E9-810E2A42D9BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{395315A2-C2EE-4764-9CB9-F12C238D7C84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{395315A2-C2EE-4764-9CB9-F12C238D7C84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{395315A2-C2EE-4764-9CB9-F12C238D7C84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{395315A2-C2EE-4764-9CB9-F12C238D7C84}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E2E54316-1B81-4A24-95A4-8C578C9F1733}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2E54316-1B81-4A24-95A4-8C578C9F1733}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2E54316-1B81-4A24-95A4-8C578C9F1733}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2E54316-1B81-4A24-95A4-8C578C9F1733}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D435D80D-A0DA-4C91-BD6E-5F6C0C8957EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D435D80D-A0DA-4C91-BD6E-5F6C0C8957EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D435D80D-A0DA-4C91-BD6E-5F6C0C8957EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D435D80D-A0DA-4C91-BD6E-5F6C0C8957EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{898A811C-C785-49E5-A725-A8AF4013A0B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{898A811C-C785-49E5-A725-A8AF4013A0B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{898A811C-C785-49E5-A725-A8AF4013A0B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{898A811C-C785-49E5-A725-A8AF4013A0B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E31E0F3D-9C2A-4856-82D8-0E1B8ADE62D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E31E0F3D-9C2A-4856-82D8-0E1B8ADE62D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E31E0F3D-9C2A-4856-82D8-0E1B8ADE62D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E31E0F3D-9C2A-4856-82D8-0E1B8ADE62D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AFCF9487-0223-453A-9856-66DE2F940651}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFCF9487-0223-453A-9856-66DE2F940651}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFCF9487-0223-453A-9856-66DE2F940651}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFCF9487-0223-453A-9856-66DE2F940651}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D954EDDA-D7CD-446D-8783-FCAFA1C4D233}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D954EDDA-D7CD-446D-8783-FCAFA1C4D233}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D954EDDA-D7CD-446D-8783-FCAFA1C4D233}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D954EDDA-D7CD-446D-8783-FCAFA1C4D233}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E1E22CF4-B3F0-4FDA-8749-AD88159DB0DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1E22CF4-B3F0-4FDA-8749-AD88159DB0DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1E22CF4-B3F0-4FDA-8749-AD88159DB0DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1E22CF4-B3F0-4FDA-8749-AD88159DB0DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A2E21FCE-3682-4510-B4CB-A620F10DB802}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2E21FCE-3682-4510-B4CB-A620F10DB802}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2E21FCE-3682-4510-B4CB-A620F10DB802}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2E21FCE-3682-4510-B4CB-A620F10DB802}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ACB9CA1D-3812-4E29-A9C7-C2BD2D6B0D21}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACB9CA1D-3812-4E29-A9C7-C2BD2D6B0D21}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACB9CA1D-3812-4E29-A9C7-C2BD2D6B0D21}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACB9CA1D-3812-4E29-A9C7-C2BD2D6B0D21}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F223DAB3-4471-4FA3-A885-50F4B3090DB2}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 24
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = http://222.217.36.98:18088/tfs/lzzy.teacherworplaces
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = CDS000.Common\\CDS000.Common.csproj
+		SccProjectName1 = CDS000.Common
+		SccLocalPath1 = CDS000.Common
+		SccProjectUniqueName2 = CDS001.IEnumerable\\CDS001.IEnumerableDemo.csproj
+		SccProjectName2 = CDS001.IEnumerable
+		SccLocalPath2 = CDS001.IEnumerable
+		SccProjectUniqueName3 = CDS002.IEnumerableWithGenericsDemo\\CDS002.IEnumerableWithGenericsDemo.csproj
+		SccProjectName3 = CDS002.IEnumerableWithGenericsDemo
+		SccLocalPath3 = CDS002.IEnumerableWithGenericsDemo
+		SccProjectUniqueName4 = CDS003.ICollectionWithGenericsDemo\\CDS003.ICollectionWithGenericsDemo.csproj
+		SccProjectName4 = CDS003.ICollectionWithGenericsDemo
+		SccLocalPath4 = CDS003.ICollectionWithGenericsDemo
+		SccProjectUniqueName5 = CDS004.IListDemo\\CDS004.IListDemo.csproj
+		SccProjectName5 = CDS004.IListDemo
+		SccLocalPath5 = CDS004.IListDemo
+		SccProjectUniqueName6 = CDS004.IListWithGenericsDemo\\CDS005.IListWithGenericsDemo.csproj
+		SccProjectName6 = CDS004.IListWithGenericsDemo
+		SccLocalPath6 = CDS004.IListWithGenericsDemo
+		SccProjectUniqueName7 = CDS006.IDictionaryDemo\\CDS006.IDictionaryDemo.csproj
+		SccProjectName7 = CDS006.IDictionaryDemo
+		SccLocalPath7 = CDS006.IDictionaryDemo
+		SccProjectUniqueName8 = CDS007.IDictionaryWithGenericsDemo\\CDS007.IDictionaryWithGenericsDemo.csproj
+		SccProjectName8 = CDS007.IDictionaryWithGenericsDemo
+		SccLocalPath8 = CDS007.IDictionaryWithGenericsDemo
+		SccProjectUniqueName9 = CDS008.IComparerDemo\\CDS008.IComparerDemo.csproj
+		SccProjectName9 = CDS008.IComparerDemo
+		SccLocalPath9 = CDS008.IComparerDemo
+		SccProjectUniqueName10 = CDS009.IEqualityComparerDemo\\CDS009.IEqualityComparerDemo.csproj
+		SccProjectName10 = CDS009.IEqualityComparerDemo
+		SccLocalPath10 = CDS009.IEqualityComparerDemo
+		SccProjectUniqueName11 = CDS010.IEnumeratorDemo\\CDS010.IEnumeratorDemo.csproj
+		SccProjectName11 = CDS010.IEnumeratorDemo
+		SccLocalPath11 = CDS010.IEnumeratorDemo
+		SccProjectUniqueName12 = CDS011.IEnumeratorWithGenericsDemo\\CDS011.IEnumeratorWithGenericsDemo.csproj
+		SccProjectName12 = CDS011.IEnumeratorWithGenericsDemo
+		SccLocalPath12 = CDS011.IEnumeratorWithGenericsDemo
+		SccProjectUniqueName13 = CDS012.HashTableDemo\\CDS012.HashTableDemo.csproj
+		SccProjectName13 = CDS012.HashTableDemo
+		SccLocalPath13 = CDS012.HashTableDemo
+		SccProjectUniqueName14 = CDS013.SequenceListDemo\\CDS013.SequenceListDemo.csproj
+		SccProjectName14 = CDS013.SequenceListDemo
+		SccLocalPath14 = CDS013.SequenceListDemo
+		SccProjectUniqueName15 = CDS014.LinkedListDemo\\CDS014.LinkedListDemo.csproj
+		SccProjectName15 = CDS014.LinkedListDemo
+		SccLocalPath15 = CDS014.LinkedListDemo
+		SccProjectUniqueName16 = CDS015.StackDemo\\CDS015.StackDemo.csproj
+		SccProjectName16 = CDS015.StackDemo
+		SccLocalPath16 = CDS015.StackDemo
+		SccProjectUniqueName17 = CDS016.QueueDemo\\CDS016.QueueDemo.csproj
+		SccProjectName17 = CDS016.QueueDemo
+		SccLocalPath17 = CDS016.QueueDemo
+		SccProjectUniqueName18 = CDS017.BinarySTreeDemo\\CDS017.BinarySTreeDemo.csproj
+		SccProjectName18 = CDS017.BinarySTreeDemo
+		SccLocalPath18 = CDS017.BinarySTreeDemo
+		SccProjectUniqueName19 = CAlgorithm001.Recursive\\CAlgorithm002.Recursive.csproj
+		SccProjectName19 = CAlgorithm001.Recursive
+		SccLocalPath19 = CAlgorithm001.Recursive
+		SccProjectUniqueName20 = CDS018.Hanoi\\CDS018.Hanoi.csproj
+		SccProjectName20 = CDS018.Hanoi
+		SccLocalPath20 = CDS018.Hanoi
+		SccProjectUniqueName21 = CDS015.01.StackForHanoi\\CDS015.01.StackForHanoi.csproj
+		SccProjectName21 = CDS015.01.StackForHanoi
+		SccLocalPath21 = CDS015.01.StackForHanoi
+		SccProjectUniqueName22 = GraphDemo\\CDS019.GraphDemo.csproj
+		SccProjectName22 = GraphDemo
+		SccLocalPath22 = GraphDemo
+		SccProjectUniqueName23 = CAlgorithm001\\CAlgorithm001.Sort.csproj
+		SccProjectName23 = CAlgorithm001
+		SccLocalPath23 = CAlgorithm001
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,5 @@
+D:\20180310021chen\Course03.DesignAndAnanlysisOfAlgorithm\DAA02.Sources\Foundation\CDS016.QueueDemo\bin\Debug\CDS016.QueueDemo.exe.config
+D:\20180310021chen\Course03.DesignAndAnanlysisOfAlgorithm\DAA02.Sources\Foundation\CDS016.QueueDemo\bin\Debug\CDS016.QueueDemo.exe
+D:\20180310021chen\Course03.DesignAndAnanlysisOfAlgorithm\DAA02.Sources\Foundation\CDS016.QueueDemo\bin\Debug\CDS016.QueueDemo.pdb
+D:\20180310021chen\Course03.DesignAndAnanlysisOfAlgorithm\DAA02.Sources\Foundation\CDS016.QueueDemo\obj\Debug\CDS016.QueueDemo.exe
+D:\20180310021chen\Course03.DesignAndAnanlysisOfAlgorithm\DAA02.Sources\Foundation\CDS016.QueueDemo\obj\Debug\CDS016.QueueDemo.pdb

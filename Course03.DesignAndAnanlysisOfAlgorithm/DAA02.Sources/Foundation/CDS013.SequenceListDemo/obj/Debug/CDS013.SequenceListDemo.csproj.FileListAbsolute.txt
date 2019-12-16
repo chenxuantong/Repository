@@ -1,0 +1,5 @@
+D:\20180310021chen\Course03.DesignAndAnanlysisOfAlgorithm\DAA02.Sources\Foundation\CDS013.SequenceListDemo\bin\Debug\CDS013.SequenceListDemo.exe.config
+D:\20180310021chen\Course03.DesignAndAnanlysisOfAlgorithm\DAA02.Sources\Foundation\CDS013.SequenceListDemo\bin\Debug\CDS013.SequenceListDemo.exe
+D:\20180310021chen\Course03.DesignAndAnanlysisOfAlgorithm\DAA02.Sources\Foundation\CDS013.SequenceListDemo\bin\Debug\CDS013.SequenceListDemo.pdb
+D:\20180310021chen\Course03.DesignAndAnanlysisOfAlgorithm\DAA02.Sources\Foundation\CDS013.SequenceListDemo\obj\Debug\CDS013.SequenceListDemo.exe
+D:\20180310021chen\Course03.DesignAndAnanlysisOfAlgorithm\DAA02.Sources\Foundation\CDS013.SequenceListDemo\obj\Debug\CDS013.SequenceListDemo.pdb

@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.4
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LearningDemoForLINQ", "LearningDemoForLINQ\LearningDemoForLINQ.csproj", "{5954FD18-711E-42DA-9E29-D3EDBEF48052}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LearningDemoForDataSet", "LearningDemoForDataSet\LearningDemoForDataSet.csproj", "{4329B7A0-22A5-4955-BBD0-3F8694FC12A9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5954FD18-711E-42DA-9E29-D3EDBEF48052}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5954FD18-711E-42DA-9E29-D3EDBEF48052}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5954FD18-711E-42DA-9E29-D3EDBEF48052}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5954FD18-711E-42DA-9E29-D3EDBEF48052}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4329B7A0-22A5-4955-BBD0-3F8694FC12A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4329B7A0-22A5-4955-BBD0-3F8694FC12A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4329B7A0-22A5-4955-BBD0-3F8694FC12A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4329B7A0-22A5-4955-BBD0-3F8694FC12A9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 3
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = http://222.217.36.123:18080/tfs/lzzy.%E9%82%93%E5%8D%9A%E5%B7%A5%E4%BD%9C%E5%AE%A4
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = LearningDemoForLINQ\\LearningDemoForLINQ.csproj
+		SccProjectName1 = LearningDemoForLINQ
+		SccLocalPath1 = LearningDemoForLINQ
+		SccProjectUniqueName2 = LearningDemoForDataSet\\LearningDemoForDataSet.csproj
+		SccProjectName2 = LearningDemoForDataSet
+		SccLocalPath2 = LearningDemoForDataSet
+	EndGlobalSection
+EndGlobal

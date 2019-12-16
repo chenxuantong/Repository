@@ -1,0 +1,6 @@
+D:\20180310021chen\Course03.DesignAndAnanlysisOfAlgorithm\DAA02.Sources\Foundation\CDS001.IEnumerable\bin\Debug\CDS001.IEnumerable.exe.config
+D:\20180310021chen\Course03.DesignAndAnanlysisOfAlgorithm\DAA02.Sources\Foundation\CDS001.IEnumerable\bin\Debug\CDS001.IEnumerable.exe
+D:\20180310021chen\Course03.DesignAndAnanlysisOfAlgorithm\DAA02.Sources\Foundation\CDS001.IEnumerable\bin\Debug\CDS001.IEnumerable.pdb
+D:\20180310021chen\Course03.DesignAndAnanlysisOfAlgorithm\DAA02.Sources\Foundation\CDS001.IEnumerable\obj\Debug\CDS001.IEnumerableDemo.csprojResolveAssemblyReference.cache
+D:\20180310021chen\Course03.DesignAndAnanlysisOfAlgorithm\DAA02.Sources\Foundation\CDS001.IEnumerable\obj\Debug\CDS001.IEnumerable.exe
+D:\20180310021chen\Course03.DesignAndAnanlysisOfAlgorithm\DAA02.Sources\Foundation\CDS001.IEnumerable\obj\Debug\CDS001.IEnumerable.pdb
