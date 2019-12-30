@@ -1,6 +1,5 @@
 D:\20180310021chen\Course03.DesignAndAnanlysisOfAlgorithm\DAA02.Sources\Foundation\CDS002.IEnumerableWithGenericsDemo\bin\Debug\CDS002.IEnumerableWithGenericsDemo.exe.config
 D:\20180310021chen\Course03.DesignAndAnanlysisOfAlgorithm\DAA02.Sources\Foundation\CDS002.IEnumerableWithGenericsDemo\bin\Debug\CDS002.IEnumerableWithGenericsDemo.exe
 D:\20180310021chen\Course03.DesignAndAnanlysisOfAlgorithm\DAA02.Sources\Foundation\CDS002.IEnumerableWithGenericsDemo\bin\Debug\CDS002.IEnumerableWithGenericsDemo.pdb
-D:\20180310021chen\Course03.DesignAndAnanlysisOfAlgorithm\DAA02.Sources\Foundation\CDS002.IEnumerableWithGenericsDemo\obj\Debug\CDS002.IEnumerableWithGenericsDemo.csprojResolveAssemblyReference.cache
 D:\20180310021chen\Course03.DesignAndAnanlysisOfAlgorithm\DAA02.Sources\Foundation\CDS002.IEnumerableWithGenericsDemo\obj\Debug\CDS002.IEnumerableWithGenericsDemo.exe
 D:\20180310021chen\Course03.DesignAndAnanlysisOfAlgorithm\DAA02.Sources\Foundation\CDS002.IEnumerableWithGenericsDemo\obj\Debug\CDS002.IEnumerableWithGenericsDemo.pdb

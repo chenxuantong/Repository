@@ -1,5 +1,4 @@
 D:\20180310021chen\Course03.DesignAndAnanlysisOfAlgorithm\DAA02.Sources\Foundation\CDS000.Common\bin\Debug\CDS000.Common.dll
 D:\20180310021chen\Course03.DesignAndAnanlysisOfAlgorithm\DAA02.Sources\Foundation\CDS000.Common\bin\Debug\CDS000.Common.pdb
-D:\20180310021chen\Course03.DesignAndAnanlysisOfAlgorithm\DAA02.Sources\Foundation\CDS000.Common\obj\Debug\CDS000.Common.csprojResolveAssemblyReference.cache
 D:\20180310021chen\Course03.DesignAndAnanlysisOfAlgorithm\DAA02.Sources\Foundation\CDS000.Common\obj\Debug\CDS000.Common.dll
 D:\20180310021chen\Course03.DesignAndAnanlysisOfAlgorithm\DAA02.Sources\Foundation\CDS000.Common\obj\Debug\CDS000.Common.pdb

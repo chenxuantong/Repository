@@ -5,3 +5,4 @@ D:\20180310021chen\Course03.DesignAndAnanlysisOfAlgorithm\DAA02.Sources\Foundati
 D:\20180310021chen\Course03.DesignAndAnanlysisOfAlgorithm\DAA02.Sources\Foundation\CDS011.IEnumeratorWithGenericsDemo\bin\Debug\CDS000.Common.pdb
 D:\20180310021chen\Course03.DesignAndAnanlysisOfAlgorithm\DAA02.Sources\Foundation\CDS011.IEnumeratorWithGenericsDemo\obj\Debug\CDS011.IEnumeratorWithGenericsDemo.exe
 D:\20180310021chen\Course03.DesignAndAnanlysisOfAlgorithm\DAA02.Sources\Foundation\CDS011.IEnumeratorWithGenericsDemo\obj\Debug\CDS011.IEnumeratorWithGenericsDemo.pdb
+D:\20180310021chen\Course03.DesignAndAnanlysisOfAlgorithm\DAA02.Sources\Foundation\CDS011.IEnumeratorWithGenericsDemo\obj\Debug\CDS011.IEnumeratorWithGenericsDemo.csprojResolveAssemblyReference.cache

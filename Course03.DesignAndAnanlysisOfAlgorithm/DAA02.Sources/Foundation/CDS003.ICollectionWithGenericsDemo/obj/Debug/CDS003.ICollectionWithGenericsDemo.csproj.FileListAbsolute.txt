@@ -1,6 +1,5 @@
 D:\20180310021chen\Course03.DesignAndAnanlysisOfAlgorithm\DAA02.Sources\Foundation\CDS003.ICollectionWithGenericsDemo\bin\Debug\CDS003.ICollectionWithGenericsDemo.exe.config
 D:\20180310021chen\Course03.DesignAndAnanlysisOfAlgorithm\DAA02.Sources\Foundation\CDS003.ICollectionWithGenericsDemo\bin\Debug\CDS003.ICollectionWithGenericsDemo.exe
 D:\20180310021chen\Course03.DesignAndAnanlysisOfAlgorithm\DAA02.Sources\Foundation\CDS003.ICollectionWithGenericsDemo\bin\Debug\CDS003.ICollectionWithGenericsDemo.pdb
-D:\20180310021chen\Course03.DesignAndAnanlysisOfAlgorithm\DAA02.Sources\Foundation\CDS003.ICollectionWithGenericsDemo\obj\Debug\CDS003.ICollectionWithGenericsDemo.csprojResolveAssemblyReference.cache
 D:\20180310021chen\Course03.DesignAndAnanlysisOfAlgorithm\DAA02.Sources\Foundation\CDS003.ICollectionWithGenericsDemo\obj\Debug\CDS003.ICollectionWithGenericsDemo.exe
 D:\20180310021chen\Course03.DesignAndAnanlysisOfAlgorithm\DAA02.Sources\Foundation\CDS003.ICollectionWithGenericsDemo\obj\Debug\CDS003.ICollectionWithGenericsDemo.pdb
